@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "5ba1f11e99b189af",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d5df2da49f500e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ae4b38e217e10e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Zotero_Dev_vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7e9ff86378a31b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Zotero_Dev_vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8101f29ae4824260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Zotero_Dev_vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd9212e4bfe1a90a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca50ac3ed257f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d475d7ed8eaea61d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ecd10fe24b44917",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64a2d88327090f00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c84d739ca5d609e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3b6865969be17b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca3f080a3267bda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_Zotero_Dev_vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8fbfd3788f2559e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_Zotero_Dev_vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59e6d20cf7f917cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8cf5b5f0aab64b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_Zotero_Dev_vault.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8101f29ae4824260",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "10_Zotero_Dev_vault.md",
+    "00_README.md",
+    "00_Meta/00_meta_plugins/DataView.md",
+    "00_Meta/WeeklyNotes/MetaMeta_2023_08_07.md",
+    "00_Meta/WeeklyNotes/MetaMeta_2023_07_23.md",
+    "00_Meta/WeeklyNotes/MetaMeta_2023_07_21.md",
+    "00_Meta/TemplateLates/TemplateLate-folder.md",
+    "00_Meta/TemplateLates/TemplateLate-weekly.md",
+    "00_Meta/TemplateLates/TemplateLate-daily.md",
+    "00_Meta/00_meta_plugins/Deep PDF links.md",
+    "00_Meta/DailyNotes/MetaMeta-2023-07-25-Daily.md",
+    "00_Meta/00_meta_plugins/CornellNotes.md",
+    "00_Meta/10_plugins/backyard life 3d model stuff.md",
+    "00_Meta/00_meta_plugins/Attachment Manager.md",
+    "00_Meta/00_meta_plugins",
+    "00_Meta/00_meta_plugins/RAD.md",
+    "00_Meta/00_meta_plugins/TufteSideNotes.md",
+    "00_Meta/00_meta_plugins/Folder Note Overview.md",
+    "00_Meta/00_meta_assets/macos_preview_pg6.png",
+    "00_Meta/00_meta_assets/image-20230722234644092.png",
+    "00_Meta/00_meta_assets/1.3.6 obsidian shiny things.png",
+    "00_Meta/00_meta_assets/Custom Attachment Location/findmewhere.png",
+    "00_Meta/00_meta_assets/Custom Attachment Location",
+    "00_Meta/00_meta_assets/IMG-20230731155635-Attachment Manager.png",
+    "00_Meta/00_meta_assets/obs_pdf_star_annotation_highlighted.png",
+    "00_Meta/00_meta_assets/IMG-Attachment Manager-settings.png",
+    "00_Meta/00_meta_assets/macos_preview_show_inspector.png",
+    "00_Meta/00_meta_assets/FNC_configuration.png",
+    "00_Meta/00_meta_assets/link_two_highlighted.png",
+    "00_Meta/00_meta_assets/IMG-20230808013419864-CornellNotes.zip",
+    "00_Meta/00_meta_plugins/ShowFiles.md",
+    "00_Meta/00_meta_plugins/obsidian-local-images.md",
+    "00_Meta/00_meta_plugins/Recent Files.md",
+    "00_Meta/00_meta_plugins/Kanagawa.md",
+    "00_Meta/00_meta_plugins/Attachment Manager",
+    "00_Meta/00_meta_plugins/Obsidian Terminal.md",
+    "00_Meta/00_meta_plugins/obsidian message passing server.md",
+    "00_Meta/WeeklyNotes/assets",
+    "00_Meta/WeeklyNotes",
+    "00_Meta/ObsidianTerm2223/assets",
+    "00_Meta/ObsidianTerm2223",
+    "00_Meta/00_meta_plugins/Folder Note.md",
+    "00_Meta/00_meta_plugins/Simple Note Review.md",
+    "00_Meta/DailyNotes",
+    "00_Meta/TemplateLates"
+  ]
+}
